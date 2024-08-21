@@ -1,0 +1,103 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.navbar-nav
+{
+    margin-left: 70%;
+
+}
+.navbar-nav li a
+{
+    color: white;
+}
+.navbar-nav li a:hover
+{
+    color: blue;
+}
+.navbar-brand h4
+{
+    color: white;
+    margin-left: 50%;
+}
+.navbar-brand h4:hover
+{
+    color: blue;
+}
+.Background img
+{
+    height: 99vh;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.Background-1
+{
+    top: 50%;
+    left: 40%;
+    transform: translate(-50%, -40%);
+    position: absolute;
+    text-align: center;
+}
+.Background-1
+{
+    font-weight: 200;
+    font-style: bolder;
+}
+.Background-1 h3
+{
+    color: darkblue;
+    font-style: italic;
+}
+.Background-1 h4:hover
+{
+    opacity: 0.90;
+    transform: scale(0.90);
+    cursor: pointer;
+}
+.Background-1 h1:hover
+{
+    opacity: 1.30;
+    transform: scale(1.30);
+    cursor: pointer;
+    color: whitesmoke;
+}
+.About img
+{
+    height: 250px;
+    width: 350px;
+}
+.lastsection
+{
+    font-size: 60px;
+    margin-top: 25%;
+}
+.container-1 a i
+{
+    font-size: 25px;
+    gap: 10px;
+    color: black;
+}
+
+footer div p
+{
+    margin-top: 25%;
+}
+#portfolio
+{
+    margin-top: 20%;
+}
+#Aboutme
+{
+    margin-top: 20%;
+}
+.last-part li a
+{
+    color: black;
+    font-size: 25px;
+}
+.last-part li a i:hover
+{
+    color: blue;
+}
